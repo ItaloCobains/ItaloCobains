@@ -51,10 +51,11 @@ Starting to <strong>develop</strong> brings me <strong>life</strong> and dreams 
 
 ## ⭐ GitHub Stats
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ItaloCobains&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloCobains&hide=css,html&theme=tokyonight">
-</p>
+<div>
+  <a href="https://github.com/ItaloCobains">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloCobains&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloCobains&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 <div align="center">
