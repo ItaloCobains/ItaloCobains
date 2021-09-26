@@ -28,11 +28,11 @@ Starting to <strong>develop</strong> brings me <strong>life</strong> and dreams 
 </p>
 
 <p align="center">
-  👩‍💻  Stack: <strong>HTML, CSS, </strong>
+  👩‍💻  Stack: <strong>PYTHON, e um pouco de front-end</strong>
 </p>
 
 <p align="center">
-  🚀  Learning: <strong>PYTHON,  JS, PHP, MYSQL</strong>
+  🚀  Learning: <strong>PYTHON, C++</strong>
 </p>
 
 <p align="center">
