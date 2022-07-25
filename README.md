@@ -1,4 +1,4 @@
-## Oiii eu sou o Italo, Desenvolvedor Full Stack
+## Oiii eu sou o Italo, Programo web, e estudo conceitos de ciencias da computação.
 <hr>
 <div align="center">
   <a href="https://github.com/ItaloCobains">
